@@ -1,0 +1,129 @@
+ <div class="row">
+        	    <div class="col-lg-3">
+            	<h4>Screening</h4>
+            	<ul class="links">
+            		<li><a href="docs/SSL Colour Brochure 3.pdf">Step screens</a></li>
+            		<li><a href="docs/Ro9.pdf">Rotary screw screen</a></li>
+            		<li><a href="docs/RPPS.pdf">Inclined Rotary drum screen</a></li>
+            		<li><a href="docs/escamax.pdf">Band Screen</a></li>
+            		<li><a href="docs/rakemax.pdf">Bar screen</a></li>
+            		<li><a href="docs/romem.pdf">Membrane screen</a></li>
+            		<li><a href="docs/romesh.pdf">Rotary drum screen</a></li>
+            		<li><a href="docs/Ro3 septage.pdf">Septage Receival</a></li>
+            	</ul>
+             </div>
+             
+            <div class="col-lg-3">
+            	<h4>Screenings Treatment </h4>
+            	<ul class="links">
+            		<li><a href="docs/wap.pdf">Wash press</a></li>
+            		<li><a href="docs/wapsl.pdf">Agitator Wash Press</a></li>
+            		<li><a href="#" data-reveal-id="modal4">Screw Press</a></li>
+            	</ul>
+             </div>
+             
+         	 <div class="col-lg-3">
+            	<h4>Screen + Grit Removal</h4>
+            	<ul class="links">
+            		<li><a href="docs/minicop.pdf">Small</a></li>
+            		<li><a href="docs/Ro5C.pdf">Medium</a></li>
+            		<li><a href="docs/Ro5.pdf">Large</a></li>
+            	</ul>
+             </div>
+
+         	
+        	<div class="col-lg-3">
+            	<h4>Grit Removal </h4>
+            	<ul class="links">
+            		<li><a href="docs/Grit removal flyer.pdf">Vortex Grit Removal System</a></li>
+            	</ul>
+             </div>
+        </div>
+            
+            <div class="row"> 
+             <div class="col-lg-3">
+            	<h4>Grit Treatment</h4>
+            	<ul class="links">
+            		<li><a href="docs/RoSF3.pdf">Grit Classifier</a></li>
+            		<li><a href="docs/RoSF4.pdf">Grit Washer</a></li>
+            	</ul>
+             </div>
+
+
+
+             
+
+                  <div class="col-lg-3">
+                <h4>Clarifiers</h4>
+                <ul class="links">
+                    <li><a href="#" data-reveal-id="modal2">Rim Drive</a></li>
+                    <li><a href="#" data-reveal-id="modal3">Center Drive</a></li>
+                    <li><a href="docs/Zickert bottom scraper.pdf">Rectangular</a></li>
+                    <li><a href="docs/Lamella brochure.pdf">Lamella Plate</a></li>
+                </ul>
+            </div>
+         
+            <div class="col-lg-3">
+                <h4>Sludge Thickener</h4>
+                <ul class="links">
+                    <li><a href="docs/RoS2 S.pdf">Small</a></li>
+                    <li><a href="docs/RoS2.pdf">Medium</a></li>
+                    <li><a href="docs/db.pdf">Large</a></li>
+                    <li><a href="#" data-reveal-id="modal1" href="#">Gravity</a></li>
+                </ul>
+            </div>
+             
+            <div class="col-lg-3">
+                <h4>Sludge Dewatering</h4>
+                <ul class="links">
+                    <li><a href="docs/RoS3.pdf">Screw Press</a></li>
+                    <li><a href="docs/Pieralisi flyer.pdf">Decanter Centrifuge</a></li>
+                </ul>
+             </div>
+        </div>    
+        
+        <div class="row">
+            <div class="col-lg-3">
+                <h4>Sludge Drying</h4>
+                <ul class="links">
+                    <li><a href="docs/bt.pdf">Thermal Dryer</a></li>
+                    <li><a href="docs/srt.pdf">Solar Dryer</a></li>
+                </ul>
+            </div>
+             
+            <div class="col-lg-3">
+                <h4>Sludge Screening</h4>
+                <ul class="links">
+                    <li><a href="docs/sp.pdf">Brochure Sp</a></li>
+                </ul>
+             </div>
+             
+        
+             <div class="col-lg-3">
+                <h4>Aerators </h4>
+                <ul class="links">
+                    <li><a href="docs/S&N flyer 2012.pdf">Brush Aerator</a></li>
+                    <li>Fine Bubble Diffuser</li>
+                </ul>
+             </div> 
+         
+            <div class="col-lg-3">
+                <h4>Filtration</h4>
+                <ul class="links">
+                    <li><a href="docs/rodisc.pdf">Disc Filter</a></li>
+                    <li><a href="docs/biomem.pdf">Membrane Filter</a></li>
+                    <li><a href="docs/vrm.pdf">Rotary Membrane</a></li>
+                    <li><a href="docs/DynaSand brochure.pdf">Regenerating Sand Filter</a></li>
+                </ul>
+            </div>
+        </div>
+            
+            <div class="four columns end">
+                <h4>Powder Dosing</h4>
+                <ul class="links">
+                    <li><a href="docs/Sodimate Mixing Tank.pdf">Sodimate</a></li>
+                </ul>
+             </div>
+             
+         </div> 
+    </section>
